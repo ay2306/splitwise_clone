@@ -1,0 +1,7 @@
+.navbar-brand {
+    font-size: 29px;
+    color: rgb(7 114 36 / 90%);
+}
+.navbar{
+--bs-navbar-brand-color: rgb(228 14 14 / 90%);
+}
